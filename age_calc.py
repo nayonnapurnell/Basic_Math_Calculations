@@ -12,3 +12,7 @@ ageAt100 = int(100 + yearOfBirth)
 
 # Step 3
 # If they're already past any of these ages, skip them.
+
+#subtract currentYear from yearOfBirth equals currentAge.
+
+#if currentAge is 
